@@ -1,0 +1,23 @@
+{
+  "name": "@lh/study_core",
+  "version": "1.0.0",
+  "description": "SSY 鸿蒙工具集 - 核心基础工具包",
+  "main": "Index.ets",
+  "author": "lh",
+  "license": "Apache-2.0",
+  "keywords": [
+    "harmonyos",
+    "toolkit",
+    "utils",
+    "core",
+    "string",
+    "date",
+    "math",
+    "device"
+  ],
+  "repository": "https://github.com/lhovoh/study_core.git",
+  "dependencies": {},
+  "devDependencies": {
+    "@ohos/hypium": "1.0.24"
+  }
+}
